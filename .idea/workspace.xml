@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99e434a7-81cd-4df3-81a4-0232161e0092" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary_search/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dp/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/link_list/double.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/link_list/root_link_list.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/link_list/single.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack_queue/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vote/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/vote/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
